@@ -4,7 +4,7 @@ A simple utility to scaffold new Python projects.
 # Usage
 `python3 starter.py [-gh] <projectname>`
 
-This will create a new folder called <projectname> in the configured directory, with a useful set of standard files such as `README.md`, requirements files etc.
+This will create a new folder called `<projectname>` in the configured directory, with a useful set of standard files such as `README.md`, requirements files etc.
 
 Options:
 -  `-g` initialise a git repo in the new directory.
