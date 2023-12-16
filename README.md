@@ -1,5 +1,5 @@
 # Starter
-A simple utility to scaffold new Python projects. 
+A simple utility to scaffold new Python projects. Projects are created with a new `venv` environment automatically, and optionally initialised as a git repository.
 
 # Usage
 `python3 starter.py [-gh] <projectname>`
